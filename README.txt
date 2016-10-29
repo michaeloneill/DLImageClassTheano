@@ -1,5 +1,7 @@
 This is a Deep Learning library that I created for the purposes of classifying mult-spectral satellite images of crops according to crop type. It could equally well be used for any multi-channel image classification task.
 
+The software was submitted towards the degree of MPhil in Scientific Computing and Machine Learning, University of Cambridge. It was accompanied by a 15,000 word thesis entitled "Deep Learning to Exploit Multi-Spectral Satellite Data for Landcover Mapping and Crop Classification".
+
 MLP: layers and models related to a Multi-Layer-Perceptron
 cnn: layers and models related to a Convolutional Neural Network
 dA: a denoising autoencoder used to pre-train layers of the stacked-denoising-autoencoder
