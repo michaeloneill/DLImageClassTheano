@@ -6,6 +6,7 @@ dA: a denoising autoencoder used to pre-train layers of the stacked-denoising-au
 rbm: a restricted boltzmann machine used to pre-train layers of the deep-belief-network
 sda: a stacked-donoising-autoencoder model
 dbn: a deep-belief-network model
+softmax: a softmax layer used as a final layer to classify the images 
 common: modules common to all layers/models
 
 Python libraries required to run the code (version number on RHS):
